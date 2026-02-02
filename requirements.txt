@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+pandas
+numpy
+geopy
+pyjwt
+python-multipart
+jinja2
+# optional — remove if slow
+tensorflow
+pymongo>=4.6
+passlib[argon2]
